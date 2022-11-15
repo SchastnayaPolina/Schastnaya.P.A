@@ -1,0 +1,5 @@
+seconds = int(input())
+print(seconds//86400, "дней")
+print(seconds//3600, "часов")
+print(seconds//60, "минут")
+print(seconds, "секунд")
